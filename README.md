@@ -50,4 +50,6 @@ Sebelum mengirimkan field pastikan sudah menambahkan header key dan token yang d
 
 Untuk hasil yang ditampilkan berupa json format dengan informasi mutasi rekening.
 
+Untuk lebih jelasnya bisa dicek dalam video ini : https://www.youtube.com/watch?v=gDVLDuRUmdA
+
 Kemungkingan script ini masih terdapat bugs dan masih dapat dikembangkan lebih lanjut.
