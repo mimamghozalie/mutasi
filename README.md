@@ -1,12 +1,13 @@
 # mutasi
 Untuk saat ini mutasi rekening yang dibuat hanya bisa melakukan scrapping data dari Bank BRI (Untuk bank lain bisa dikembangkan sendiri)
 
-Required:
+## Required:
 - NPM
 - NodeJS
 - tesseract-ocr
 - Jika anda menggunakan Linux anda bisa melihat package yang diperlukan untuk menjalankan script ini pada file AptFile.
 
+## Konfigurasi
 Anda dapat melakukan konfigurasi file sebelum menjalankan program ini. untuk file konfigurasi berada pada folder /config/AppSettings.js
 - ProductionMode: true,
 - port: 4550,
@@ -16,7 +17,7 @@ Anda dapat melakukan konfigurasi file sebelum menjalankan program ini. untuk fil
 
 anda dapat merubah konfigurasi untuk veriable diatas.
 
-
+## Running Program
 Cara menjalankan script ini:
 - buka console atau command prompt
 - git clone https://github.com/anasamu/mutasi.git
