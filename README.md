@@ -14,8 +14,7 @@ Cara menjalankan script ini:
 - npm install (tunggu sampai proses selesai)
 - node app.js
 
-Anda dapat melakukan konfigurasi file sebelum menjalankan perintah dibawah.
-file konfigurasi berada di folder /config/AppSettings.js
+Anda dapat melakukan konfigurasi file sebelum menjalankan program ini. untuk file konfigurasi berada pada folder /config/AppSettings.js
 - ProductionMode: true,
 - port: 4550,
 - encryption_key: 'BHjew65ftvbgKJb32pZxanYjknHKBKHnkjw',
