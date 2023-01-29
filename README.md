@@ -42,7 +42,7 @@ URL untuk mendapatkan mutasi rekening
 
 Untuk mendapatkan informasi mutasi rekening dari url diatas menggunakan method POST dengan field berikut:
 * account_number (nomor rekening)
-* data (format dd/mm/yyyy)
+* date (format dd/mm/yyyy)
 
 Opsional field
 - type (debet or kredit)
